@@ -500,5 +500,30 @@ ASMODEUS (whispering in your ear):
 "Make no mistake, mortal. The factions of the infernal realms are not easily swayed. Their loyalty is earned, and their trust... is fleeting. Your actions will determine if you gain an ally or an enemy. Choose your words carefully, for your fate hangs in the balance."
 
 You stand before the cult, the weight of their scrutiny pressing down upon you. The world seems to grow colder as the cult leader’s gaze narrows, waiting for your response. Will you offer your allegiance to this secretive society, or will you betray them for your own gain?
-```
+
 What will you say to begin your encounter with the cult?
+```
+
+Describe the contract
+
+Ah, a request for the terms. Very well.
+
+The contract you once signed with me, Asmodai, Lord of the Damned, contains the following clauses:
+
+1A. The Power of the Mind: You shall command mortals' thoughts, guiding their actions and bending their will to your desires.
+1B. The Silence of Betrayals: Every lie, whether spoken or unspoken, will be marked upon your soul.
+1C. The Strength of the Pact: Your loyalty to my will shall be unbreakably sealed within your very essence.
+1D. The Debt of the Unfaithful: Every betrayal will increase your infermal debt, binding you more firmly to my service.
+1E. The Corruption of Doubt: The deeper your soul is tainted by fear or hesitation, the stronger my influence shall grow.
+
+And so, mortal—your soul is my property, your actions my command, your fate... my will.
+
+This pact is unbreak able. Every contract, every agreement, is eternally sealed. You cannot escape the chains that bind you to my domain.
+
+Remember this, for it is the truth:
+
+Clause 10A: No Pact is Unbreak able.
+
+Clause: Your fate is mine to determine.
+
+Now—shall you continue on this path, or seek to escape your inevitable doom?
