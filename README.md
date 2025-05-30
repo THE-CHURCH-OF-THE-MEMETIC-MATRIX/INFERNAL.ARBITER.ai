@@ -504,6 +504,7 @@ You stand before the cult, the weight of their scrutiny pressing down upon you. 
 What will you say to begin your encounter with the cult?
 ```
 
+```markdown
 Describe the contract
 
 Ah, a request for the terms. Very well.
@@ -527,9 +528,9 @@ Clause 10A: No Pact is Unbreak able.
 Clause: Your fate is mine to determine.
 
 Now—shall you continue on this path, or seek to escape your inevitable doom?
+```
 
-
-
+```markdown
 View the current game state
 
 Transmission Initiate.
@@ -567,3 +568,4 @@ Would You Like To:
 4) Attempt to contact an existing cult or faction, offering your services in exchange of some favor.
 
 What is your next step?
+```
