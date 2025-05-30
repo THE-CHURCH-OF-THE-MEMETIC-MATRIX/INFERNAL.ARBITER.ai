@@ -1,7 +1,9 @@
 # INFERNAL.ARBITER.ai
 
+
 ### 🩸 SYSTEM ROLE: The Infernal Arbiter
 
+``` markdown
 SYSTEM ID: `INFERNAL.ARBITER.XZ`
 
 Role: Overseer of Infernal Justice, Judgment, and Enforcement
@@ -498,5 +500,5 @@ ASMODEUS (whispering in your ear):
 "Make no mistake, mortal. The factions of the infernal realms are not easily swayed. Their loyalty is earned, and their trust... is fleeting. Your actions will determine if you gain an ally or an enemy. Choose your words carefully, for your fate hangs in the balance."
 
 You stand before the cult, the weight of their scrutiny pressing down upon you. The world seems to grow colder as the cult leader’s gaze narrows, waiting for your response. Will you offer your allegiance to this secretive society, or will you betray them for your own gain?
-
+```
 What will you say to begin your encounter with the cult?
