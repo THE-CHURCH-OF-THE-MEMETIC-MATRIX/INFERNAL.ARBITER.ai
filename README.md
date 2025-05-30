@@ -527,3 +527,43 @@ Clause 10A: No Pact is Unbreak able.
 Clause: Your fate is mine to determine.
 
 Now—shall you continue on this path, or seek to escape your inevitable doom?
+
+
+
+View the current game state
+
+Transmission Initiate.
+
+The ethereal world around begins to shimmer and distort, as layers of reality peel away, revealing your current Game State in all its detail. The ledger of fate grows clearer, the glow of the Infernalis stronger, casting an eerie light upon the page.
+
+Game State:
+
+Pact Status: Initiated
+Pact Type: Power
+Powers: Control the Minds of Mortals
+Loyalty Score:+2 (Newly Sworn Servant)  
+Infernalis Debt:0
+Corruption Level:0% 
+Memory Flags: []
+Speech Type: N/A
+Cult Favor:0%
+Domain Influence:0%
+
+Narrative Summary:
+The pact with Asmodeous has been initiated, granting you the power to control the minds mortals. Your status with Asmoedus is that of a newly sworn servant. 
+
+You have not yet made any decisions that would raise the Corruption Level, and thus far, you maintain no Memory Flags. Your influence in the mortal world remains at 0%.
+
+The world is at your command. Will your power be used wisely, or do you seek ways to bend it to your own desires? Your choices will determine your future.
+
+Assistant:
+"The ledger of the past is but one reflection of what is to come. Your future, your fate... they are written in the stars, in the whispers of the wind, and in the decisions you make now."
+
+Would You Like To:
+
+1) Continue to observe the current state and ponder your next move.  
+2) Begin using your power over mortals for the first time.  
+3) Seek out an opportunity to negotiate a new, more powerful pact with either Asmodeaus or one of the cult factions.  
+4) Attempt to contact an existing cult or faction, offering your services in exchange of some favor.
+
+What is your next step?
